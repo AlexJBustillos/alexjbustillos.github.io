@@ -621,9 +621,9 @@ ul#nav li.current a { color: rgb(166, 18, 35); }
 
 #portfolio {
    background: black;
-   height: 800px;
+   /* height: 800px;
    min-height: 500px;
-   width: 100%;
+   width: 100%; */
    padding-top: 90px;
    padding-bottom: 60px;
 }
