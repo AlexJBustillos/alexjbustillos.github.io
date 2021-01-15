@@ -14,21 +14,7 @@ import resumeData from './resumeData'
 
 class App extends Component {
   render() {
-  
-  // const projects = [
-  //   {
-  //     name: 'Keep Up',
-  //     id: 1,
-  //     description: 'Game developed using vanilla JS',
-  //     link: 'https://alexjbustillos.github.io'
-  //   },
-  //   {
-  //     name: 'Loud and Green',
-  //     id: 2,
-  //     description: 'App developed using Node, Express, PostgreSQL',
-  //     link: 'https://loud-and-green.herokuapp.com'
-  //   }
-  // ]
+
     return (
       
       <div className="App">
@@ -39,7 +25,7 @@ class App extends Component {
         <Testimonials resumeData={resumeData}/>
         <ContactUs resumeData={resumeData}/>
         <Footer resumeData={resumeData}/>
-
+        
       </div>
       
     );

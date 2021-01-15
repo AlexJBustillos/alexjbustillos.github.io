@@ -1,9 +1,10 @@
 import React, { Component } from 'react';
+
 export default class Testimonials extends Component {
     render() {
     let resumeData = this.props.resumeData;
         return (
-            <section id="testimonial">
+            <section id="testimonials">
                 <div className="text-container">
                     <div className="row">
                         <div className="two columns header-col">

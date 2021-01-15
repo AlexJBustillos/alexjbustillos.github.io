@@ -17,29 +17,29 @@ let resumeData = {
         }
     ],
     "aboutme": "My passion for wanting more from my career was sparked when I was working as an assistant manager at a produce department in Whole Foods. In this position I managed to develop strong leadership and customer service skills which helped get my team 3rd in the NorthEast region in sales. The role inspired me to continue wanting to grow and help others grow around me as well. I enjoyed the team atmosphere and always pushed my team to keep improving. While at my managing position I learned how to take a step back when problems arise and use my calm attitude to assess the situation and solve problems according to level of importance. With my work ethic and positive calm attitude I continued to lead my department in record sales and profit and helped get my team excel while keeping labor and costs at a minimum. I love using my resources to help people, and find it most constructive when I treat others the way I would like to be treated as well. I want to do the same in the software engineering field, I’d like to work in a junior role and prove to the team and others that we can all achieve greatness as one.",
-    "address": "New York",
-    "website": "alexbustillos.com",
-    "education": [
-        {
-            "UniversityName": "General Assembly",
-            "specialization": "Software Engineering Immersive Program",
-            "MonthOfPassing": "Jan",
-            "YearOfPassing": "2021",
-            "Achievements": "Built multiple projects using a variety of languages and frameworks"
+    "address": "Queens, NY",
+    "website": "alexjbustillos@gmail.com",
+    // "education": [
+    //     {
+    //         "UniversityName": "General Assembly",
+    //         "specialization": "Software Engineering Immersive Program",
+    //         "MonthOfPassing": "Jan",
+    //         "YearOfPassing": "2021",
+    //         "Achievements": "Built multiple projects using a variety of languages and frameworks"
 
-        }
+    //     }
 
-    ],
-    "work": [
-        {
-            "CompanyName": "General Assembly",
-            "specialization": "Software Engineering Immersive Program",
-            "MonthOfPassing": "Jan",
-            "YearOfPassing": "2021",
-            "Achievements": "Built multiple projects using a variety of languages and frameworks"
-        }
-    ],
-    "skillsDescription": "Managerial experience over 8+ years",
+    // ],
+    // "work": [
+    //     {
+    //         "CompanyName": "General Assembly",
+    //         "specialization": "Software Engineering Immersive Program",
+    //         "MonthOfPassing": "Jan",
+    //         "YearOfPassing": "2021",
+    //         "Achievements": "Built multiple projects using a variety of languages and frameworks"
+    //     }
+    // ],
+    "skillsDescription": "images/portfolio/ABR.pdf",
     "skills": [
         {
             "skillname": "HTML5"
@@ -88,11 +88,11 @@ let resumeData = {
     ],
     "testimonials": [
         {
-            "description": "This is a sample",
-            "name": "Ronald"
+            "description": "Alex is one of the hardest working people I know. His work ethic and attention to detail goes above and beyond. Trustworthy individual who leads by example. Knows how to people manage and always treated his team with repsect.",
+            "name": "Colin, Produce Manager, Whole Foods Market"
         },
         {
-            "description": "This is a sample",
+            "description": "Alex has a great creative eye and has a knack for solving problems in an efficient way. His progression with his work has been really impressive. I think he would make a great addition to any team he's on.",
             "name": "Jimmy De Los Angeles"
         }
     ]

@@ -21,7 +21,7 @@ render() {
                         <br></br>
                         <span>{resumeData.address}</span>
                         <br></br>
-                        <span>{resumeData.website}</span>
+                        <span><a href="mailto:alexjbustillos@gmail.com"><i className="fa fa-envelope-o"/> {resumeData.website}</a></span>
                     </p>
                 </div>
             </div>
