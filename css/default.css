@@ -160,7 +160,7 @@ body {
 --------------------------------------------------------------------- */
 
 h1, h2, h3, h4, h5, h6 {
-   color: #313131;
+   color: white;
 	font-family: 'opensans-bold', sans-serif;
    font-weight: normal;
 }
@@ -290,14 +290,14 @@ hr { border: solid #E3E3E3; border-width: 1px 0 0; clear: both; margin: 11px 0 3
 a, a:visited {
    text-decoration: none;
    outline: 0;
-   color: #11ABB0;
+   color: rgb(166, 18, 35);
 
    -webkit-transition: color .3s ease-in-out;
    -moz-transition: color .3s ease-in-out;
    -o-transition: color .3s ease-in-out;
    transition: color .3s ease-in-out;
 }
-a:hover, a:focus { color: #313131; }
+a:hover, a:focus { color: white; }
 p a, p a:visited { line-height: inherit; }
 
 
@@ -438,7 +438,7 @@ dd { margin: 0 0 0 20px; }
 }
 .pagination .current,
 .pagination .current:hover {
-   background-color: #11ABB0;
+   background-color: rgb(166, 18, 35);
    color: #fff;
 }
 .pagination .inactive,
@@ -466,14 +466,17 @@ input[type="submit"],
 input[type="reset"],
 input[type="button"] {
    font: 16px/30px 'opensans-bold', sans-serif;
-   background: #11ABB0;
+   background: black;
+   width: 502px;
    display: inline-block;
 	text-decoration: none;
    letter-spacing: 0;
    color: #fff;
-	padding: 12px 20px;
-	margin-bottom: 18px;
-   border: none;
+	padding: 0;
+   margin: -5px 0px 0px 0px;
+   outline: none;
+   border: solid 1px rgb(166, 18, 35);
+   border-top: none;
    cursor: pointer;
    height: auto;
 
@@ -494,7 +497,7 @@ button:hover,
 input[type="submit"]:hover,
 input[type="reset"]:hover,
 input[type="button"]:hover {
-   background: #3d4145;
+   background: rgb(166, 18, 35);
    color: #fff;
 }
 
