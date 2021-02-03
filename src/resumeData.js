@@ -75,15 +75,15 @@ let resumeData = {
         },
         {
             "name": "Irezumi",
-            "description": "App created with Ruben Cedeno, Ashton Mitchell, and Amari James. Using Mongoose, Express, React, and Node",
+            "description": "App created with Ruben Cedeno, Ashton Mitchell, and Amari James. Using MongoDB, Express, React, and Node.js",
             "imgurl": "images/portfolio/irezumi.png",
             "url": "http://irezumi-tattoo.herokuapp.com/"
         },
         {
-            "name": "tbd",
-            "description": "tbd",
-            "imgurl": "images/portfolio/tbd.jpeg",
-            "url": ""
+            "name": "Kokoro",
+            "description": "App created with Ashton Mitchel. Using MongoDB, Express, React, and Node.js",
+            "imgurl": "images/portfolio/Kokoro.png",
+            "url": "https://kokoro-meditation.herokuapp.com/"
         },
     ],
     "testimonials": [
