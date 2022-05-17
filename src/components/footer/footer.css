@@ -1,9 +1,5 @@
 footer {
-    background-image: url(../../assets/1.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-attachment: fixed;
-    /* background: var(--color-bg); */
+    /* background-color: rgb(0, 0, 0, 0.3); */
     padding: 3rem 0;
     text-align: center;
     font-size: 0.9rem;
@@ -11,7 +7,7 @@ footer {
 }
 
 footer a {
-    color: var(--color-bg);
+    color: var(--color-primary);
 }
 
 .footer__logo {
@@ -48,13 +44,13 @@ footer a {
 
 .footer__socials a:hover {
     background: transparent;
-    color: var(--color-bg);
+    color: var(--color-primary);
     border-color: var(--color-bg);
 }
 
 .footer__copyright {
     margin-bottom: 4rem;
-    color: var(--color-bg);
+    color: var(--color-primary);
 }
 
 /* ===================== MEDIA QUERIES (small Devices) =====================*/

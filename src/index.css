@@ -27,10 +27,10 @@ code {
 :root {
   --color-bg: rgb(1, 2, 4);
   --bg-variant: rgb(36, 13, 68);
-  --color-primary: rgb(156, 61, 244, 0.6);
-  --color-primary-variant: rgb(208, 247, 252);
-  --color-white: #fff;
-  --color-light: rgba(223, 55, 115);
+  --color-primary: rgb(238, 146, 92, 0.8);
+  --color-primary-variant: rgba(79, 172, 178);
+  --color-white: rgb(248, 244, 181);
+  --color-light: rgba(215, 252, 253);
 
   --transition: all 400ms ease;
 
@@ -53,7 +53,7 @@ body {
   background: var(--color-bg);
   color: var(--color-white);
   line-height: 1.7;
-  /* background-image: url(../src/assets/header-background.jpg); */
+  background-image: url(../src/assets/1.jpg);
 
 
 }
