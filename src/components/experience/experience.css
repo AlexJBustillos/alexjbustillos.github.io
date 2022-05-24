@@ -32,6 +32,7 @@
 .experience__details {
     display: flex;
     gap: 1rem;
+    margin-left: .5em;
 }
 
 .experience__details-icon {
@@ -53,6 +54,10 @@
 
     .experience__content {
         padding: 1rem;
+    }
+
+    .experience__details{
+        margin-left: 30%;
     }
 }
 

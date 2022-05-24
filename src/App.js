@@ -32,7 +32,7 @@ class App extends Component {
       //   <Footer resumeData={resumeData}/>
         
       // </div>
-      <>
+      <div className='transparency'>
         <Header />
         <Nav />
         <About />
@@ -41,7 +41,7 @@ class App extends Component {
         <Portfolio />
         <Contact />
         <Footer />
-      </>
+      </div>
       
     );
   }

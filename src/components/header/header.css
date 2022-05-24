@@ -7,6 +7,15 @@ header {
     background-attachment: fixed;
 }
 
+.transparent__background {
+    text-align: center;
+}
+
+.baby__background {
+    display: inline-block;
+    text-align: left;
+}
+
 .header__container {
     text-align: center;
     height: 100%;
@@ -31,14 +40,31 @@ header {
     position: absolute;
     left: 0;
     bottom: 3rem;
+    padding-left: 10px;
 }
 
-.header__socials::after {
+/* .header__socials::after {
     content: '';
     width: 1px;
     height: 2rem;
     background: var(--color-primary);
+} */
+.big__size {
+    height: 1em;
+    width: 1em;
+    transition: .4s;
+    margin-bottom: 1em;
+    margin-left: 1em;
 }
+
+.big__size:hover{
+    height: 2em;
+    width: 2em;
+    transition: .4s;
+    margin-bottom: 0em;
+    margin-left: 0em;
+}
+
 
 /* ====================== ME ========================== */
 .me {
@@ -61,6 +87,13 @@ header {
     font-weight: 300;
     font-size: 0.9rem;
     padding-left: 10px;
+    padding-right: 10px;
+    margin-right: .2rem;
+}
+
+.scroll__down:hover {
+    margin-right: 0em;
+    font-size: 1.1rem;
 }
 
 /* ===================== MEDIA QUERIES (MEdium Devices) =====================*/

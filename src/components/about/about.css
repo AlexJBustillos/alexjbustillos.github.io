@@ -41,6 +41,7 @@
     border-radius: 1rem;
     padding: 2rem;
     text-align: center;
+    margin-top: 40px;
 }
 
 .about__card:hover {
@@ -62,6 +63,11 @@
 .about__content p {
     margin: 2rem 0 2.6rem;
     color: var(--color-light);
+    letter-spacing: .3px;
+}
+
+.about__margin {
+    margin-bottom: 100px;
 }
 
 /* ===================== MEDIA QUERIES (MEdium Devices) =====================*/
