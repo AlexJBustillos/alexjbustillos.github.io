@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.3ca24b20.chunk.css",
-    "main.js": "/static/js/main.1a8ee571.chunk.js",
-    "main.js.map": "/static/js/main.1a8ee571.chunk.js.map",
+    "main.js": "/static/js/main.8cf250f2.chunk.js",
+    "main.js.map": "/static/js/main.8cf250f2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.fc11b81c.js",
     "runtime-main.js.map": "/static/js/runtime-main.fc11b81c.js.map",
     "static/js/2.8a79653e.chunk.js": "/static/js/2.8a79653e.chunk.js",
@@ -14,7 +14,7 @@
     "static/js/2.8a79653e.chunk.js.LICENSE.txt": "/static/js/2.8a79653e.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/1.e46a0982.jpg",
     "static/media/123.aea03cac.png": "/static/media/123.aea03cac.png",
-    "static/media/ABR.a9e7dbd4.pdf": "/static/media/ABR.a9e7dbd4.pdf",
+    "static/media/ABR.67aa960a.pdf": "/static/media/ABR.67aa960a.pdf",
     "static/media/Kokoro.ff83bb19.png": "/static/media/Kokoro.ff83bb19.png",
     "static/media/irezumi.668c98c8.png": "/static/media/irezumi.668c98c8.png",
     "static/media/loudgreen.3d5b57ad.png": "/static/media/loudgreen.3d5b57ad.png",
@@ -25,6 +25,6 @@
     "static/js/runtime-main.fc11b81c.js",
     "static/js/2.8a79653e.chunk.js",
     "static/css/main.3ca24b20.chunk.css",
-    "static/js/main.1a8ee571.chunk.js"
+    "static/js/main.8cf250f2.chunk.js"
   ]
 }
