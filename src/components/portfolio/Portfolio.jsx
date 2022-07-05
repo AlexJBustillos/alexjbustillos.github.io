@@ -4,6 +4,7 @@ import IMG1 from '../../assets/123.png'
 import IMG2 from '../../assets/loudgreen.png'
 import IMG3 from '../../assets/irezumi.png'
 import IMG4 from '../../assets/Kokoro.png'
+import IMG5 from '../../assets/retrosnake.png'
 
 const data = [
     {
@@ -33,6 +34,13 @@ const data = [
         title: 'Kokoro',
         github: 'https://github.com/AlexJBustillos/kokoro-client',
         demo: 'https://kokoro-meditation.herokuapp.com/'
+    },
+    {
+        id: 5,
+        image: IMG5,
+        title: 'Retro Snake',
+        github: 'https://github.com/AlexJBustillos/MyRetroSnake',
+        demo: 'http://www.alexjbustillos.com/MyRetroSnake/'
     }
 ]
 
